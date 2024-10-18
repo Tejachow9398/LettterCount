@@ -23,7 +23,7 @@ class LettersCalculator extends Component {
           </label>
           <br />
           <input
-            type="Search"
+            type="text"
             placeholder="Enter the phrase"
             className="type"
             value={search}
